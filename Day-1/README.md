@@ -18,12 +18,4 @@
   1. Program to calculate the **area of a rectangle**  
   2. Program to **convert Celsius to Fahrenheit**
 
----
 
-## 💻 Code Solutions
-### 1. Area of a Rectangle
-```python
-length = float(input("Enter the length of rectangle: "))
-width = float(input("Enter the width of rectangle: "))
-area = length * width
-print("The area of rectangle is:", area)
