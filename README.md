@@ -13,7 +13,7 @@ Here I will maintain **daily assignments, solutions, and key takeaways**.
 - Introduction to Python & its features
 - print() function, variables, data types
 - Simple coding tasks (area of rectangle, Celsius to Fahrenheit converter)
-- [Day-1 Folder](./Day-1)
+- [Day-1 Folder]([./Day-1](https://github.com/Himanshu-Chadha/python-bootcamp-5days/tree/main/Day-1))
 
 ---
 
