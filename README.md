@@ -15,25 +15,6 @@ Here I will maintain **daily assignments, solutions, and key takeaways**.
 - Simple coding tasks (area of rectangle, Celsius to Fahrenheit converter)
 - [Day-1 Folder](Day-1)
 
-
----
-
-## 🗂 Repository Structure
-python-bootcamp-5days/
-│
-├── Day-1/
-│   ├── assignment.docx      ← original assignment file
-│   ├── assignment.py        ← your solutions
-│   └── README.md            ← notes + summary
-├── Day-2/
-│ ├── assignment.docx
-│ ├── assignment.py
-│ └── README.md
-│
-... (and so on till Day-5)
-│
-└── README.md # Overall summary
-
 ---
 
 ## 🚀 Learning Outcomes
