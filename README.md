@@ -20,17 +20,18 @@ Here I will maintain **daily assignments, solutions, and key takeaways**.
 
 ### ✅ Day 2 – Operators & Conditional Statements
 - Operators in Python
-- Arithmetic Operators (+, -, *, /, //, %, **)
-- Comparison Operators (==, !=, >, <, >=, <=)
-- Logical Operators (and, or, not)
-- Assignment Operators (=, +=, -=, etc.)
-- Bitwise Operators (&, |, ^, <<, >>, ~)
-- Operator Precedence & Associativity
+  - Arithmetic Operators (+, -, *, /, //, %, **)
+  - Comparison Operators (==, !=, >, <, >=, <=)
+  - Logical Operators (and, or, not)
+  - Assignment Operators (=, +=, -=, etc.)
+  - Bitwise Operators (&, |, ^, <<, >>, ~)
+  - Operator Precedence & Associativity
 - Conditional Statements
-- if statement
-- if-else statement
-- if-elif-else ladder
-- Nested conditions
+  - if statement
+  - if-else statement
+  - if-elif-else ladder
+  - Nested conditions
+- [Day-2 Folder](Day-2)
 
 ---
 
