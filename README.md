@@ -35,6 +35,19 @@ Here I will maintain **daily assignments, solutions, and key takeaways**.
 
 ---
 
+### ✅ Day 3 – NumPy Basics
+- Introduction to NumPy and why it is useful
+- Creating arrays with `np.array()`, `np.zeros()`, `np.ones()`
+- Understanding array properties: `.size`, `.shape`, `.ndim`, `.dtype`
+- Type conversion with `.astype()`
+- Arithmetic operations: addition, subtraction, multiplication, division, squaring
+- Statistical functions: `np.mean()`, `np.median()`, `np.std()`, `np.var()`, `np.min()`, `np.max()`
+- If-else operations with arrays (average, max, min checks)
+- Small real-world style applications (grades, salaries, ages, even numbers, etc.)
+- [Day-3 Folder](Day-3)
+
+---
+
 ## 🚀 Learning Outcomes
 By the end of this bootcamp, I aim to:
 - Get hands-on with Python basics
