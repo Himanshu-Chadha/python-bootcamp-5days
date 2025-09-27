@@ -23,7 +23,6 @@
 
 ## 🗂️ Files in this Folder
 - `README.md` → This overview file  
-- `day4_assignment.md` → Detailed assignment Q&A solutions  
 - `day4_assignment.py` → Python code for the practical tasks  
 
 ## 🎯 Key Takeaways
