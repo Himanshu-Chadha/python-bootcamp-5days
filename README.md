@@ -48,6 +48,24 @@ Here I will maintain **daily assignments, solutions, and key takeaways**.
 
 ---
 
+### ✅ Day 4 – Pandas Basics
+- Introduction to **Pandas** and DataFrames
+- Creating and inspecting DataFrames using:
+  - `pd.DataFrame()`, `head()`, `tail()`, `shape`, `columns`, `dtypes`, `info()`
+- Handling missing values:
+  - `dropna()`, `fillna()`
+- Summarizing data:
+  - `describe()`, `sum()`, `mean()`, `max()`, `min()`, `agg()`
+- Grouping and aggregation with `groupby()` and `.agg()`
+- Assignment included:
+  - Conceptual questions (fill in the blanks, match the columns, true/false, theory)
+  - Practical coding tasks:
+    1. Weekly Milk Sales Data (creating DataFrame, preview, structure)  
+    2. Monthly Expenses Summary (calculating total, average, max, min)
+- [Day-4 Folder](Day-4)
+
+---
+
 ## 🚀 Learning Outcomes
 By the end of this bootcamp, I aim to:
 - Get hands-on with Python basics
