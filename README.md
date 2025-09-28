@@ -66,12 +66,43 @@ Here I will maintain **daily assignments, solutions, and key takeaways**.
 
 ---
 
+### ✅ Day 5 – Coding Contest
+- Final evaluation of the bootcamp (50 Marks, 1 Hour)  
+- Covered:
+  - Match the Columns, True/False, Fill in the Blanks
+  - Theory questions (DataFrames, if/elif, NumPy aggregates, type conversion, etc.)
+  - Coding Questions:
+    1. NumPy Array Statistics (mean, max, min)  
+    2. Even/Odd Checker  
+    3. Pandas DataFrame (Products & Prices, average price)  
+    4. NumPy Count Elements > 4  
+    5. Positive/Negative/Zero Checker  
+- [Day-5 Folder](Day-5)
+
+---
+
 ## 🚀 Learning Outcomes
-By the end of this bootcamp, I aim to:
-- Get hands-on with Python basics
-- Strengthen problem-solving skills
-- Build a habit of writing clean & well-commented code
-- Maintain consistent coding practice via GitHub
+By the end of this bootcamp, I was able to:
+- Get hands-on with Python basics  
+- Strengthen problem-solving skills  
+- Explore NumPy for numerical computing  
+- Learn Pandas for data analysis and summarization  
+- Build a habit of writing clean & well-commented code  
+- Maintain consistent coding practice via GitHub  
+
+---
+
+## 🏅 Bootcamp Completion Badge  
+
+✨ **I successfully completed the 5-Day Python Bootcamp!** ✨  
+
+This journey gave me strong foundations in:  
+- Python Basics (syntax, control flow, functions)  
+- NumPy (arrays, aggregation, statistics)  
+- Pandas (DataFrames, analysis, inspection)  
+- Problem-Solving & Hands-on Practice  
+
+🚀 Ready to apply these skills to real-world projects!  
 
 ---
 
